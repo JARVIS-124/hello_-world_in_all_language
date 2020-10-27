@@ -1,0 +1,9 @@
+// Author: Dibya
+
+// Language: JavaScript
+
+Just use this code in you project/file 
+
+<script>
+    alert( 'Hello, world!' );
+  </script>
